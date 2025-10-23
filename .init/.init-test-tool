@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/crm-application-1224-1668/SystemAdministrationSecurityService"
+}
